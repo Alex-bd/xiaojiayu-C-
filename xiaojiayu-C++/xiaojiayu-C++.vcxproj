@@ -124,7 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\xiaojiayu05.cpp" />
+    <ClCompile Include="error.cpp" />
     <ClCompile Include="jiegoucpp.cpp" />
+    <ClCompile Include="jingtai_method.cpp" />
+    <ClCompile Include="malloc.cpp" />
     <ClCompile Include="try.cpp" />
     <ClCompile Include="xiaojiayu06.cpp" />
     <ClCompile Include="指针.cpp" />
