@@ -128,7 +128,9 @@
     <ClCompile Include="jiegoucpp.cpp" />
     <ClCompile Include="jingtai_method.cpp" />
     <ClCompile Include="malloc.cpp" />
+    <ClCompile Include="swap.cpp" />
     <ClCompile Include="try.cpp" />
+    <ClCompile Include="vector.cpp" />
     <ClCompile Include="xiaojiayu06.cpp" />
     <ClCompile Include="指针.cpp" />
   </ItemGroup>
